@@ -1,0 +1,108 @@
+{
+  "events": [
+    {
+      "id": "ac96",
+      "title": "Holi",
+      "date": "2024-08-22",
+      "image": "https://cdn.britannica.com/57/244757-131-EBAFDFE0/Hindu-Holi-Festival-Mathura-Uttar-Pradesh-India.jpg",
+      "description": "Holi event",
+      "user": "karan6260@gmail.com"
+    },
+    {
+      "id": "62eb",
+      "title": "New Year's Eve",
+      "date": "2024-12-31",
+      "image": "https://www.mlm.com/wp-content/uploads/2014/01/52b3ac4c618e8.jpeg",
+      "description": "New year Event",
+      "user": "karan6260@gmail.com"
+    },
+    {
+      "id": "45ac",
+      "title": "Anime feista",
+      "date": "2024-09-11",
+      "image": "https://cdn.pixabay.com/photo/2022/12/01/04/35/sunset-7628294_640.jpg",
+      "description": "Anime, manga, merchandise and many more. ",
+      "user": "Ujjwal Shukla"
+    },
+    {
+      "id": "4f51",
+      "title": "Hackathon",
+      "date": "2024-08-28",
+      "image": "https://res.cloudinary.com/devex/image/fetch/c_scale,f_auto,q_auto,w_720/https://lh4.googleusercontent.com/VQyrPPyh-FGdV2BJtlcwDphesnxERD6SLWvGtARygLDVNSsXhFF0kzG_yXvLyiARZbKIG3VYF_CIbF4_B-Wy3Eu7kKhHKKR3pq_2ob2pdZgxt_Wz_uqXjRMrhIBKREQnJo--Ui9b",
+      "description": "Explore the ideas, connections and many more.",
+      "user": "Ujjwal Shukla"
+    },
+    {
+      "id": "9659",
+      "title": "Concert",
+      "date": "2024-10-30",
+      "image": "https://images.pexels.com/photos/167636/pexels-photo-167636.jpeg?cs=srgb&dl=pexels-thibault-trillet-44912-167636.jpg&fm=jpg",
+      "description": "Enjoy a evening with the vibe and music.",
+      "user": "tiwari789@gmail.com"
+    },
+    {
+      "id": "eac6",
+      "title": "Marathon",
+      "date": "2024-08-22",
+      "image": "https://thebridge.in/wp-content/uploads/2020/10/A-still-from-Airtel-Delhi-Half-Marathon.jpg",
+      "description": "Run for enviroment.",
+      "user": "tiwari789@gmail.com"
+    },
+    {
+      "id": "3bde",
+      "title": "Theater Play",
+      "date": "2024-08-23",
+      "image": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/53890/article_full%403x.jpg",
+      "description": "Enjoy a mystical play on the friday evening.",
+      "user": "mishra9098@gmail.com"
+    },
+    {
+      "id": "b8d1",
+      "title": "Corporate Show",
+      "date": "2024-09-04",
+      "image": "https://plus.unsplash.com/premium_photo-1661497675847-2075003562fd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29ycG9yYXRlfGVufDB8fDB8fHww",
+      "description": "None",
+      "user": "mishra9098@gmail.com"
+    },
+    {
+      "id": "90a9",
+      "title": "Trade Show",
+      "date": "2024-11-27",
+      "image": "https://assets.entrepreneur.com/content/3x2/2000/20151110164110-trade-show-event-convention-people-work.jpeg",
+      "description": "Gain the knowledge of the trading.",
+      "user": "mishra9098@gmail.com"
+    },
+    {
+      "id": "b268",
+      "title": "Movie Show",
+      "date": "2024-08-31",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202310/pvr-sixteen_nine.jpg?size=948:533",
+      "description": "Enjoy mythological thriller in your nearest cinemas on  31 of this month.",
+      "user": "singh1234@gmail.com"
+    },
+    {
+      "id": "7e36",
+      "title": "Book Reading",
+      "date": "2024-08-17",
+      "image": "https://media.newyorker.com/photos/63a4964f9a1485c25e918cd9/master/pass/Shouts-Elson-Reading.jpg",
+      "description": "Attend the book reading by the author himself.",
+      "user": "Ujjwal Shukla"
+    },
+    {
+      "id": "2b66",
+      "title": "Event 9",
+      "date": "2024-08-17",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTFrhr_-pYR74jUgOy7IerAoHAX3zPIZZcg&s",
+      "description": "Wildlife",
+      "user": "Ujjwal Shukla"
+    },
+    {
+      "id": "fa4e",
+      "title": "Event 10",
+      "date": "2024-08-16",
+      "image": "https://gratisography.com/wp-content/uploads/2024/01/gratisography-cyber-kitty-800x525.jpg",
+      "description": "None",
+      "user": "Ujjwal Shukla"
+    }
+  ]
+}
